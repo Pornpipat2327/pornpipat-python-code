@@ -1,4 +1,4 @@
-# Complete this program to classify people by age
+    # Complete this program to classify people by age
 age = int(input("Enter age: "))
 
 # Add your if-elif-else statements here
